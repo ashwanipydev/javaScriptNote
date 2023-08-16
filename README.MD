@@ -89,7 +89,7 @@ We agreed that boolean values are either true or false.
 
 
 ### Assignment Operators
-![Assignment Operators](./assignment_operators.png)
+![Assignment Operators](./img/assignment_operators.png)
 
 
 ### Arithmetic Operators
