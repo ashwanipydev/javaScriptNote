@@ -33,23 +33,27 @@
 // console.log(userOne); //{ myName: 'Ashwnai', myLastName: 'Pandey', email: 'abc@abc.com' }
 
 
-// Number 
-let myNum = 23
-let myNumTwo = 2.3
-let myStr = 'JavaScript'
-let myBool = true
-let myNull = null
-let myUndefined = undefined
-let mySym = Symbol("123")
+// // Number 
+// let myNum = 23
+// let myNumTwo = 2.3
+// let myStr = 'JavaScript'
+// let myBool = true
+// let myNull = null
+// let myUndefined = undefined
+// let mySym = Symbol("123")
 
-console.log([
-    typeof myNum,
-    typeof myNumTwo,
-    typeof myStr,
-    typeof myBool,
-    typeof myNull,
-    typeof myUndefined,
-    typeof mySym
-]);
+// console.log([
+//     typeof myNum,
+//     typeof myNumTwo,
+//     typeof myStr,
+//     typeof myBool,
+//     typeof myNull,
+//     typeof myUndefined,
+//     typeof mySym
+// ]);
 
+const coding =['js', "rudy", 'java']
 
+coding.forEach((n)=>{
+    console.log(n)
+})
